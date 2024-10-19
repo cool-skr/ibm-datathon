@@ -1,5 +1,4 @@
 Idk man 
 
 
-
-know you know
+now you know
