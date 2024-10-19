@@ -27,14 +27,12 @@ Text-to-pictogram mappings – Annotated datasets mapping sentences to correspon
 Lexical simplification datasets – Data for simplifying complex text into easier, pictogram-friendly forms.
 In specific we are using the BenchLS dataset for Lexical Simplification. (URL: https://zenodo.org/records/2552393)
 
-Home Page:
-![Home](https://github.com/user-attachments/assets/21705af3-f15a-451b-857e-c2021bb203ca)
 
-Enter text to convert it to Pictograms:
-![Frame 1](https://github.com/user-attachments/assets/69b8481c-673a-4fa6-ba64-84c6a1c04887)
+<img src="https://github.com/user-attachments/assets/21705af3-f15a-451b-857e-c2021bb203ca" alt="Home Page" width="200" />
 
-Converted result:
-![Frame 2](https://github.com/user-attachments/assets/352fa178-60e2-4e38-81b9-aa0ba40c86ed)
+<img src="https://github.com/user-attachments/assets/69b8481c-673a-4fa6-ba64-84c6a1c04887" alt="Enter text to convert it to Pictograms" width="200" />
+
+<img src="https://github.com/user-attachments/assets/352fa178-60e2-4e38-81b9-aa0ba40c86ed" alt="Converted result" width="200" />
 
 
 
