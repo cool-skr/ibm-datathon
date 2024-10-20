@@ -27,6 +27,15 @@ Text-to-pictogram mappings – Annotated datasets mapping sentences to correspon
 Lexical simplification datasets – Data for simplifying complex text into easier, pictogram-friendly forms.
 In specific we are using the BenchLS dataset for Lexical Simplification. (URL: https://zenodo.org/records/2552393)
 
+Deployment:
+
+The model was trained using IBM Z L1CC systems. 
+
+- Has high processing capabilities while providing a secure environment (Jupyter Notebook)
+  
+- Flexible Cloud service for easy collaboration and supports all of the tech stack required.
+
+  
 Our App's UI
 
 <img src="https://github.com/user-attachments/assets/21705af3-f15a-451b-857e-c2021bb203ca" alt="Home Page" width="200" />
