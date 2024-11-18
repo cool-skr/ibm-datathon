@@ -25,7 +25,7 @@ In specific we are using the ARSAAC API. (URL: https://arasaac.org/)
 Text-to-pictogram mappings – Annotated datasets mapping sentences to corresponding pictograms.
 
 Lexical simplification datasets – Data for simplifying complex text into easier, pictogram-friendly forms.
-In specific we are using the BenchLS dataset for Lexical Simplification. (URL: https://zenodo.org/records/2552393)
+In specific we are using the BenchLS dataset for Lexical Simplification.  (URL: https://zenodo.org/records/2552393)
 
 Deployment:
 
