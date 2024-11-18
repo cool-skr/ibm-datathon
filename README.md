@@ -36,7 +36,7 @@ The model was trained using IBM Z L1CC systems.
 - Flexible Cloud service for easy collaboration and supports all of the tech stack required.
 
   
-Our App's UI
+Our UI Design
 
 <img src="https://github.com/user-attachments/assets/21705af3-f15a-451b-857e-c2021bb203ca" alt="Home Page" width="200" />
 
